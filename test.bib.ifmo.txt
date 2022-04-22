@@ -1,0 +1,2 @@
+de Moura L., Bjorner N. Z3: An Efficient SMT Solver // Tools and Algorithms for the Construction and Analysis of Systems. Berlin, Heidelberg, 2008. P. 337--340. doi: 10.1007/978-3-540-78800-3_24
+Mirkin B., Gutman P.-O. Lyapunov-based Adaptive Output-Feedback Control of MIMO Nonlinear Plants with Unknown, Time-varying State Delays // IFAC Proceedings Volumes. 2010. V. 43. N 2. P. 33-38. doi: 10.3182/20100607-3-CZ-4010.00008
